@@ -1,2 +1,2 @@
 To enhance operational efficiency and provide actionable insights into emergency room performance, we need to create a Hospital Emergency Room Analysis Dashboard in Power BI. This solution will enable stakeholders to track, analyze, and make data-driven decisions regarding patient management and service optimization.
-This is gides project (https://www.youtube.com/watch?v=ZCc6pzQzCIA&list=PLj1NNwRDqdUGvSISNPgx1E0ji4Glt_jb5&index=1)
+This is guided project (https://www.youtube.com/watch?v=ZCc6pzQzCIA&list=PLj1NNwRDqdUGvSISNPgx1E0ji4Glt_jb5&index=1)
